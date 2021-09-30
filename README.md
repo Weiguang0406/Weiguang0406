@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Weiguang0406
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning FSD
-- 💞️ I’m looking to collaborate on the class projects we are working on.
+- 💞️ I’m looking to collaborate on: no project yet.
 - 📫 How to reach me ...
 
 <!---
